@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.example.slidingWindow.MaximumSubarraySumTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.012 s <<< FAILURE! - in com.example.slidingWindow.MaximumSubarraySumTest
+test(com.example.slidingWindow.MaximumSubarraySumTest)  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	MaximumSubarraySum cannot be resolved to a type
+	MaximumSubarraySum cannot be resolved to a type
+
+	at com.example.slidingWindow.MaximumSubarraySumTest.test(MaximumSubarraySumTest.java:9)
+
